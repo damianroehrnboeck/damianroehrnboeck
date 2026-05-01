@@ -7,7 +7,7 @@ Currently exploring frontend development and expanding into new technologies
 
 I enjoy building real projects, learning by doing, and continuously improving my skills.  
 
-Outside of coding, I spend time with my guinea pigs 🐹, work on my car 🚗, or just chill out with some gaming 🎮
+Outside of coding, I spend time with my guinea pigs 🐹, work on my car 🚗, build things around the house 🛠️ or just chill out with some gaming 🎮
 
 ---
 
