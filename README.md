@@ -44,4 +44,4 @@ Outside of coding, I spend time with my guinea pigs 🐹, work on my car 🚗, b
 
 ### 📫 How to reach me
 
-- 📧 Email: [damian.roehrnboeck@outlook.de](mailto:damian.roehrnboeck@outlook.de)
+[![Email](https://img.shields.io/badge/Email-deine.email@example.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:damian.roehrnboeck@outlook.de)
