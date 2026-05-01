@@ -40,8 +40,3 @@ Outside of coding, I spend time with my guinea pigs 🐹, work on my car 🚗, b
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
----
-
-### 📫 How to reach me
-
-[![Email](https://img.shields.io/badge/Email-damian.roehrnboeck@outlook.de-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:damian.roehrnboeck@outlook.de)
